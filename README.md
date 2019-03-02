@@ -6,3 +6,4 @@ records of some useful documentations or manuals
 - [x86 and x64 assembly](https://software.intel.com/sites/default/files/managed/39/c5/325462-sdm-vol-1-2abcd-3abcd.pdf)
 - [WPF Quick Start](https://www.codeproject.com/Articles/165368/WPF-MVVM-Quick-Start-Tutorial)
 - [Regex](https://regexr.com/)
+- [ASP.NET](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/)
